@@ -1,3 +1,2 @@
-## Archivos complementarios Guía 4
-__
-# Se resubieron los archivos en el directorio
+# Archivos complementarios Guía 4
+## Se resubieron los archivos en el directorio
